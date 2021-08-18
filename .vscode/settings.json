@@ -1,0 +1,10 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "database": "${workspaceFolder:cadastro-cursos-MVC}/db.sqlite",
+            "name": "db"
+        }
+    ]
+}
